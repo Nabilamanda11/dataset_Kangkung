@@ -1,6 +1,6 @@
 # Dataset Kangkung
 
-Dataset ini berisi data mengenai klasifikasi kualitas daun kangkung.
+Dataset ini berisi data hasil pengamatan pertumbuhan tanaman kangkung (*Ipomoea aquatica*) berdasarkan parameter lingkungan, seperti tingkat kesuburan tanah, kelembapan media, pH, intensitas cahaya, kelembapan udara, dan frekuensi pemupukan. Dataset telah melalui proses normalisasi menggunakan metode Min-Max Scaling dan digunakan untuk pengembangan model Deep Learning dalam memprediksi pertumbuhan tanaman.
 
 ## File
 - dataset_kangkung.csv
